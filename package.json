@@ -1,0 +1,15 @@
+{
+  "name": "weather-app-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss -o public/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
